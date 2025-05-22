@@ -1,3 +1,3 @@
 # python_class
 
-This ia a repo for learning purpose
+This is a repo for learning purpose. will be deleted soon.
